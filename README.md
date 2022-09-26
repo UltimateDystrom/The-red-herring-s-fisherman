@@ -43,5 +43,12 @@ Es cuando se utiliza como estrategia o argumento, que cierto producto es bueno d
 Este video es sobre una cuenta que promociona un producto para limpiar *Airpods*. El asunto es que usa como estrategia que no vayan a decirle a Apple sobre su producto, ya que le “robarían su idea”, además en ciertas ocasiones dijo que Apple le había ofrecido un trato para comprarle su producto (por una cantidad exorbitante), a lo que el vendedor dijo que no, porque lo “quería seguir vendiendo barato”. 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@thepodscrubber/video/7123441913470012678" data-video-id="7123441913470012678" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@thepodscrubber" href="https://www.tiktok.com/@thepodscrubber?refer=embed">@thepodscrubber</a> Replying to @cokelover28 <a target="_blank" title="♬ smile - evie" href="https://www.tiktok.com/music/smile-7112785689481054982?refer=embed">♬ smile - evie</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
+# All Natural (Completamente Natural)
+Es común ver productos que mencionan que son 100% naturales, más que ser un indicador requerido o especializado, es usado como una estrategia que atrapa a las personas a comprar esos productos, además de descalificar y desacreditar la eficacia de la utilización de ingeniería y ciencia en los alimentos. 
+Se puede encontrar un ejemplo en esta campaña de marketing del refresco **7up**, lo que se trata es que se vea al producto como una opción natural, recién hecha e incluso saludable, aunque no hay que olvidarse de que es un refresco y que contiene un alto contenido de azúcar.
+Es común ver productos que mencionan que son 100% naturales, más que ser un indicador requerido o especializado, es usado como una estrategia que atrapa a las personas a comprar esos productos, además de descalificar y desacreditar la eficacia de la utilización de ingeniería y ciencia en los alimentos. 
+Se puede encontrar un ejemplo en esta campaña de marketing del refresco **7up**, lo que se trata es que se vea al producto como una opción natural, recién hecha e incluso saludable, aunque no hay que olvidarse de que es un refresco y que contiene un alto contenido de azúcar.
+El anuncio se puede ver [aquí](https://www.adforum.com/creative-work/ad/player/6693945/all-natural-30-sec/7up).
+
 
 
