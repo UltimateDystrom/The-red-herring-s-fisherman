@@ -50,5 +50,10 @@ Es común ver productos que mencionan que son 100% naturales, más que ser un in
 Se puede encontrar un ejemplo en esta campaña de marketing del refresco **7up**, lo que se trata es que se vea al producto como una opción natural, recién hecha e incluso saludable, aunque no hay que olvidarse de que es un refresco y que contiene un alto contenido de azúcar.
 El anuncio se puede ver [aquí](https://www.adforum.com/creative-work/ad/player/6693945/all-natural-30-sec/7up).
 
+# Conclusión
+Como se ha podido ver, es fácil encontrar estos engaños o falacias que se utilizan para poder influenciar o convencer. Por eso es importante el pensamiento crítico y detectar estas **banderas rojas**.
+En esta ocasión se han presentado algunos ejemplos de los que se han presentado en el video ya mencionado, sin embargo, se pueden encontrar muchísimos más, sobre todo en las redes sociales, en la web y en la televisión. 
+Con el tiempo se van desarrollando más *banderas rojas*, por eso es necesario estar al tanto y no caer en estas trampas, y sobre todo desarrollar una habilidad ante estos casos.
+
 
 
