@@ -10,6 +10,7 @@ Este tipo de *red flag* se refiere cuando se busca la credibilidad de algo por m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qt2AN8QdZSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 # Ancient Wisdom (Sabiduría Antigua)
 El basar la efectividad de un producto o técnica *en la antigüedad*, sobre todo para la salud, es una bandera roja. La cultura china ha sido una de las *estrategias de marketing* más utilizadas para promover la efectividad de técnicas y productos. Muchos ejemplos pueden ser encontrados en foros, plazas comerciales, redes sociales, supermercados, etc.
 Se encontró un ejemplo en una página que dice ser sobre “salud”. En una parte se mencionan los beneficios y el legado que tiene la cultura china, sobre todo por los masajes. En el artículo se menciona que el *masaje chino* trae beneficios a todos los sistemas del cuerpo, puede curar patologías y aumentar las defensas del cuerpo, entre otras cosas.
