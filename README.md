@@ -17,9 +17,13 @@ Se encontró un ejemplo en una página que dice ser sobre “salud”. En una pa
 Aunque no trae algún maleficio (si es hecho por alguien que sea experto) tampoco debe ser una excusa para no visitar a un especialista en la salud.
 El artículo se puede encontrar por medio de este [enlace](https://www.saludterapia.com/glosario/d/62-masajetuina.html).
 
+<img src="https://www.cytescuelamtc.com/wp-content/uploads/medicina-china-portada.jpg" alt="a phone with red flags" width="500" height="300">
+
 # Confirmation Bias (Sesgo de Confirmación)
 Esta bandera roja se refiere a cuando una persona, producto o servicio trata de *acertar* en cuanto cierta situación o datos personales, como la salud, eventos futuros o incluso personalidad. Dentro de esos intentos de adivinar, cabe la probabilidad de que algunas aciertan, pero la proporción en los intentos en donde se ha fallado es mucho mayor que los aciertos. Pero a veces se cae en la creencia de que esa persona o producto es veraz porque pudo “acertar”.  
 Uno de esos ejemplos es el producto [Zyto](https://zyto.com/products/compass) que supuestamente a través de poner la mano en un escáner, te puede decir ciertas áreas de tu cuerpo que debes mejorar o que tienen afectaciones. Este producto ha estado envuelto en críticas, y es que el producto como detecta “todo el cuerpo”, hace múltiples predicciones de varias áreas del cuerpo con supuestas *probabilidades* de que se tiene cierto padecimiento o situación, que seguramente va a acertar.
+
+<img src="https://img1.wsimg.com/isteam/ip/da241ae9-36ed-46a6-b439-87533aec9414/07cd42_e1840e78174245ebae269b0b00f98a35~mv2.png/:/" alt="a phone with red flags" width="500" height="300">
 
 # Confusion of Causation and Correlation (Confusión entre Correlación y Causalidad)
 Es una bandera roja que se refiere a confundir la correlación con la causalidad. En este caso que se encontró es sobre teorías de conspiración.
@@ -54,6 +58,8 @@ Se puede encontrar un ejemplo en esta campaña de marketing del refresco **7up**
 Es común ver productos que mencionan que son 100% naturales, más que ser un indicador requerido o especializado, es usado como una estrategia que atrapa a las personas a comprar esos productos, además de descalificar y desacreditar la eficacia de la utilización de ingeniería y ciencia en los alimentos. 
 Se puede encontrar un ejemplo en esta campaña de marketing del refresco **7up**, lo que se trata es que se vea al producto como una opción natural, recién hecha e incluso saludable, aunque no hay que olvidarse de que es un refresco y que contiene un alto contenido de azúcar.
 El anuncio se puede ver [aquí](https://www.adforum.com/creative-work/ad/player/6693945/all-natural-30-sec/7up).
+
+<img src="https://uccomm2004.files.wordpress.com/2014/11/7up.jpg" alt="a phone with red flags" width="500" height="300">
 
 # Conclusión
 Como se ha podido ver, es fácil encontrar estos engaños o falacias que se utilizan para poder influenciar o convencer. Por eso es importante el pensamiento crítico y detectar estas **banderas rojas**.
