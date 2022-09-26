@@ -38,4 +38,10 @@ Se encontró un video que habla sobre *piedras energéticas* donde se habla de p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oh9DTOq9cDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Suppresion by Authorities (Supresión por las Autoridades)
+Es cuando se utiliza como estrategia o argumento, que cierto producto es bueno debido a que está siendo “prohibido” o el gobierno y/o las empresas no quieren que esto se venda o salga a la luz esa información. Se trata de ensalzar un producto y hacerlo ver como revolucionario o rebelde. 
+Este video es sobre una cuenta que promociona un producto para limpiar *Airpods*. El asunto es que usa como estrategia que no vayan a decirle a Apple sobre su producto, ya que le “robarían su idea”, además en ciertas ocasiones dijo que Apple le había ofrecido un trato para comprarle su producto (por una cantidad exorbitante), a lo que el vendedor dijo que no, porque lo “quería seguir vendiendo barato”. 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@thepodscrubber/video/7123441913470012678" data-video-id="7123441913470012678" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@thepodscrubber" href="https://www.tiktok.com/@thepodscrubber?refer=embed">@thepodscrubber</a> Replying to @cokelover28 <a target="_blank" title="♬ smile - evie" href="https://www.tiktok.com/music/smile-7112785689481054982?refer=embed">♬ smile - evie</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
 
