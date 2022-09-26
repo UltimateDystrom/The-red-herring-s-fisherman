@@ -23,7 +23,7 @@ Uno de esos ejemplos es el producto [Zyto](https://zyto.com/products/compass) qu
 
 # Confusion of Causation and Correlation
 Es una bandera roja que se refiere a confundir la correlación con la causalidad. En este caso que se encontró es sobre teorías de conspiración.
-Ya es bien conocida la teoría de conspiración de los “Illuminati”, pero algo curioso es que si se escribe illuminati al revés (itanimulli) y le agregamos un .com y lo visitas, te va a llevar a la página web de la Agencia de Seguridad Nacional de los Estados Unidos (itanimulli.com). 
+Ya es bien conocida la teoría de conspiración de los “Illuminati”, pero algo curioso es que si se escribe illuminati al revés (itanimulli) y le agregamos un .com y lo visitas, te va a llevar a la página web de la Agencia de Seguridad Nacional de los Estados Unidos ([itanimulli.com](itanimulli.com)). 
 Sin embargo, esto no quiere decir que el gobierno está escondiendo algo. La verdad es que hay una correlación, esta se debe a que el dominio “itanimulli.com” fue comprado por un hombre llamado **John Fenley**, que solamente redireccionó todas las visitas que vayan a su página para que fueran a esta página del gobierno. Esto lo hizo como una simple broma.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vuNuUfIKxM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
