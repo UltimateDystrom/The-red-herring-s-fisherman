@@ -62,7 +62,6 @@ Con el tiempo se van desarrollando más *banderas rojas*, por eso es necesario e
 
 <img src="https://www.eshoy.cl/wp-content/uploads/2021/11/red_flags_3-1024x577.png" alt="a phone with red flags" width="500" height="300">
 
-# Hola
 
 
 
