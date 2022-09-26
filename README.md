@@ -22,6 +22,11 @@ Esta bandera roja se refiere a cuando una persona, producto o servicio trata de 
 Uno de esos ejemplos es el producto [Zyto](https://zyto.com/products/compass) que supuestamente a través de poner la mano en un escáner, te puede decir ciertas áreas de tu cuerpo que debes mejorar o que tienen afectaciones. Este producto ha estado envuelto en críticas, y es que el producto como detecta “todo el cuerpo”, hace múltiples predicciones de varias áreas del cuerpo con supuestas *probabilidades* de que se tiene cierto padecimiento o situación, que seguramente va a acertar.
 
 # Confusion of Causation and Correlation
+Es una bandera roja que se refiere a confundir la correlación con la causalidad. En este caso que se encontró es sobre teorías de conspiración.
+Ya es bien conocida la teoría de conspiración de los “Illuminati”, pero algo curioso es que si se escribe illuminati al revés (itanimulli) y le agregamos un .com y lo visitas, te va a llevar a la página web de la Agencia de Seguridad Nacional de los Estados Unidos (itanimulli.com). 
+Sin embargo, esto no quiere decir que el gobierno está escondiendo algo. La verdad es que hay una correlación, esta se debe a que el dominio “itanimulli.com” fue comprado por un hombre llamado **John Fenley**, que solamente redireccionó todas las visitas que vayan a su página para que fueran a esta página del gobierno. Esto lo hizo como una simple broma.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vuNuUfIKxM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Red Herring (Arenque Rojo)
 Se refiere a las pistas falsas que pueden ser utilizadas para desviar a la cuestión real. Se puede encontrar fácilmente en las *teorías conspirativas*. En el ejemplo que fue encontrado es sobre el **alunizaje**, donde un hombre viene y se acerca a **Neil Amstrong** diciéndole que si realmente había ido a la luna, que lo jurara ante la Biblia, hasta Amstrong, iba a hacer pagado si lo hacía. Sin embargo, en el video se ve que Neil no acepta y se retira. Aquí no es la cuestión en que si realmente el alunizaje sucedió o no, la cuestión es que esto **es una pista falsa**, presentada como si fuera un “argumento veraz” de que el alunizaje es una mentira y conspiración del gobierno.
