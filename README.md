@@ -55,5 +55,7 @@ Como se ha podido ver, es fácil encontrar estos engaños o falacias que se util
 En esta ocasión se han presentado algunos ejemplos de los que se han presentado en el video ya mencionado, sin embargo, se pueden encontrar muchísimos más, sobre todo en las redes sociales, en la web y en la televisión. 
 Con el tiempo se van desarrollando más *banderas rojas*, por eso es necesario estar al tanto y no caer en estas trampas, y sobre todo desarrollar una habilidad ante estos casos.
 
+<img src="https://www.eshoy.cl/wp-content/uploads/2021/11/red_flags_3-1024x577.png" alt="a phone with red flags" width="500" height="300">
+
 
 
