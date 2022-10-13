@@ -13,9 +13,14 @@ Acerca de los puntos personales que se investigaron, fueron básicamente relacio
 
 - También otro punto importante es **la actividad física y el sedentarismo**. Éste último es un problema grave en el mundo, ya que, la OMS, ha publicado que **las personas con menos nivel de actividad física tienen entre 20% - 30% mayor riesgo de muerte, comparándolas con las personas que sí tienen un nivel adecuado de actividad física**. Además que, el 80% de los adolescentes no llevan una rutina de actividad física. Con estos datos podemos implicar que los videojuegos son una de las mayores causas del sedentarismo o falta de ejercicio. Y es necesario suprimir el tiempo invertido en ellos para realizar actividades que promuevan nuestra salud física.
 
-<img src="https://cdn-3.expansion.mx/dims4/default/88c0457/2147483647/strip/true/crop/362x217+0+0/resize/1200x719!/format/webp/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2015%2F09%2F30%2Fninoechado.jpg" alt="videogames and sedentarism" width="500" height="300">
+<img src="https://cdn-3.expansion.mx/dims4/default/88c0457/2147483647/strip/true/crop/362x217+0+0/resize/1200x719!/format/webp/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2015%2F09%2F30%2Fninoechado.jpg" alt="people playing videogames" width="500" height="300">
 
-- El último punto es sobre la procrastinación. 
+- El último punto es sobre la **procrastinación**. El Curso *“Aprendiendo a Aprender”* de *Barbara Oakley* habla sobre estrategias para evitar la procrastinación. Se menciona que se tiende a este **mal hábito** debido a la búsqueda de recompensas o de hacer una actividad placentera, dejando de lado y retrasando las tareas que debemos realizar. Con esta información podemos acordar que los videojuegos pueden ser una causa de que podamos procrastinar y además de usar estrategias que nos ayuden contra este mal hábito (como la técnica Pomodoro) debemos evitar a toda costa el uso de videojuegos durante ese tiempo. 
+
+<img src="https://s3.amazonaws.com/cdn.ucribs.com/images/2016/09/30072125/procrastination-11.png" alt="person with a videogame controller and some notebooks" width="500" height="300">
+
+# Conclusiones acerca del debate
+
 
 
 
