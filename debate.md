@@ -20,7 +20,7 @@ Acerca de los puntos personales que se investigaron, fueron básicamente relacio
 <img src="https://s3.amazonaws.com/cdn.ucribs.com/images/2016/09/30072125/procrastination-11.png" alt="person with a videogame controller and some notebooks" width="500" height="300">
 
 # Conclusiones acerca del debate
-
+Sobre este debate, como se ha mencionado, mi postura fue en contra. El debate, en mi opinión, concluyó como un empate. Podríamos decir que, aunque los videojuegos tienen ciertos beneficios, mayormente mentales. También es necesario regular los tiempos de juego y priorizar otras actividades que realmente son necesarias. Otra parte importante es sobre la agresión. La Asociación Americana de Psicología sí aclara que si puede haber una relación entre los videojuegos y la agresión, sin embargo, no declara que hay una relación entre la violencia o los tiroteos con los videojuegos. Esa es alguna razón por lo que no presenté algún argumento relacionado con violencia o casos que podrían afirmar que existe alguna relación.
 
 
 
