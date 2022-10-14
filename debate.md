@@ -27,6 +27,8 @@ Se ha demostrado que hay ciertos beneficios en el uso controlado de los videojue
 El debate estuvo bien en general, hubo mucho entusiasmo en cuanto a los participantes y la mayoría quería expresar sus puntos y argumentos. Es importante desarrollar las **habilidades del habla** y perder el miedo ante el público. Por eso es necesario encontrar estrategias y obtener las **fuentes confiables y necesarias** para expresar un punto. Aunque tampoco hay que olvidar que el entusiasmo puede llegar a jugarnos en contra, argumentando con falacias o usando las conocidas *red flags*.
 En mi opinión, los participantes de ambos bandos sintieron que el debate fue interesante y enriquecedor, además de conocer diferentes fuentes y desarrollar habilidades en la investigación. Podría ser útil también que se presenten ciertas preguntas en cuanto al tema y cada bando pueda expresar su punto o argumentos, contestando la pregunta. 
 
+<img src="https://educacion30.b-cdn.net/wp-content/uploads/2020/03/ventajas-y-desventajas-de-las-redes-sociales-1.jpg" alt="person with a videogame controller and some notebooks" width="500" height="300">
+
 
 
 
