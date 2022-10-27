@@ -39,4 +39,12 @@ Algunas semanas atrás **Tim Cook**, CEO de Apple, declaró que la realidad aume
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcerebrosoficial%2Fposts%2Fpfbid0czUrCuwvawmNqnUwEmBwHFrbNwZ1quEoxWru7gxKbZJPsJCQdy7LKNB9zkuS7PPHl&show_text=true&width=500" width="500" height="674" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-# 6. 
+# 6. Argumento ad Crumenam
+Esta falacia se puede detectar cuando se utiliza como argumento la riqueza de una persona, tomándolo como una estrategia o argumento que justifica una postura, o la ataca, dependiendo el caso.
+Esto es una anécdota.
+Hace algunas semanas estaba navegando a través de la web y me encontré con una publicación sobre un personaje famoso que había hecho alguna acción. Una persona comentó diciendo que lo que había hecho estaba mal. En ese comentario había una respuesta que decía más o menos así: "La diferencia entre él y tú es que él tiene millones de dólares y tú no". 
+Aquí se puede ver claramente que se está utilizando este tipo de falacia, ya que, independientemente si la acción del personaje famoso fue buena o mala, una persona lo justifica o argumenta que debido al dinero que tiene la persona, es porque tiene razón.
+
+<img src="https://www.sun-sentinel.com/resizer/UjqHeHwU9QTq7CH47yQovLS_M7I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/HRM3VPJEIHXMRHXHUSJXXLQOKU.aspx" alt="money" width="500" height="300">
+
+# 7. 
