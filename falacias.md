@@ -47,4 +47,10 @@ Aquí se puede ver claramente que se está utilizando este tipo de falacia, ya q
 
 <img src="https://www.sun-sentinel.com/resizer/UjqHeHwU9QTq7CH47yQovLS_M7I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/HRM3VPJEIHXMRHXHUSJXXLQOKU.aspx" alt="money" width="500" height="300">
 
-# 7. 
+# 7. Falacia del Accidente
+Este es el último ejemplo presentado sobre falacias. La falacia del accidente consiste en generalizar algo que podría ser una excepción o un accidente. Se confunde esencia con accidente. 
+En el capítulo 1 del libro de Juan se encuentra un ejemplo de esta falacia, Juan 1:43-48 dice:
+*43 El siguiente día quiso Jesús ir a Galilea, y halló a Felipe, y le dijo: Sígueme. 44 Y Felipe era de Betsaida, la ciudad de Andrés y Pedro. 45 Felipe halló a Natanael, y le dijo: Hemos hallado a aquel de quien escribió Moisés en la ley, así como los profetas: a Jesús, el hijo de José, de Nazaret. 46 Natanael le dijo: ¿De Nazaret puede salir algo de bueno? Le dijo Felipe: Ven y ve. 47 Cuando Jesús vio a Natanael que se le acercaba, dijo de él: He aquí un verdadero israelita, en quien no hay engaño. 48 Le dijo Natanael: ¿De dónde me conoces? Respondió Jesús y le dijo: Antes que Felipe te llamara, cuando estabas debajo de la higuera, te vi. 49 Respondió Natanael y le dijo: Rabí, tú eres el Hijo de Dios; tú eres el Rey de Israel. 50 Respondió Jesús y le dijo: ¿Porque te dije: Te vi debajo de la higuera, crees? Cosas mayores que estas verás. 51 Y le dijo: De cierto, de cierto os digo: De aquí en adelante veréis el cielo abierto, y a los ángeles de Dios que suben y descienden sobre el Hijo del Hombre.*
+
+Lo que se destaca es el versículo 46, Natanael cuando escuchó que habían encontrado al Mesías y que era de Nazaret él dijo: *"¿De Nazaret puede salir algo de bueno?"*.
+Él hizo una generalización acerca de lo que había escuchado, sin haber conocido ni siquiera a Jesús. Esto nos enseña algo importante: No juzgar a las personas y no caer en generalizaciones.
